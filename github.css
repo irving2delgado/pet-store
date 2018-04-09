@@ -1,0 +1,29 @@
+.body{
+	background-color: #666666;
+}
+#store-name {
+	color: blue;
+	text-align: center;
+}
+.email-form {
+
+}
+#all-pets {
+	text-align: center;
+	b
+}
+.images {
+	height: 200px;
+	width: 200px;
+}
+.individual-pet {
+	border-style: solid;
+	border-color: blue;
+	margin: 30px;
+	
+	
+}
+.description {
+		font-size: 25px;
+		font-family: serif;
+}
